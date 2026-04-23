@@ -30,6 +30,6 @@ desktop.ini
 .env.local
 
 # Brouillons / ressources lourdes non versionnées
-Ressource/private/
+Ressource/
 *.blend1
 *.blend2
